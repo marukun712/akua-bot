@@ -8,6 +8,9 @@ https://bit.ly/3gvMD8Y
 ### Chatux
 https://github.com/riversun/chatux
 
+## その他使用したもの
+### html、css、js、node.jsなど
+
 ## 使い方
 #### チャット画面を開いたら、テキストを打ち込んでみましょう。あくたんが○○って言ったよ！と返してくれます。また、特定のワードにはリアクションがあります。
 ### こんあくあー！
