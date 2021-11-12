@@ -82,3 +82,4 @@ app.get('/chat', function (req, res) {
 app.listen(port, () => {
     console.log('チャットサーバーを開始しました ポート番号:' + port);
 });
+　
